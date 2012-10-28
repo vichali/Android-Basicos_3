@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Listado de Paises</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_listado">Listado de Paises</string>
+    
+    <string name="titulo">PAISES DEL MUNDO</string>
+    
+    <string name="capitales">Capitales</string>
+
+</resources>
