@@ -93,18 +93,7 @@ public class MainListado extends Activity {
         
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
     
 
     @Override
